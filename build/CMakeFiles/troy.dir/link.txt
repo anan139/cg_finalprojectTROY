@@ -1,0 +1,1 @@
+/usr/bin/c++ -Wl,--dependency-file=CMakeFiles/troy.dir/link.d CMakeFiles/troy.dir/main.cpp.o -o troy  /usr/lib/libGL.so /usr/lib/libGLU.so /usr/lib/libglut.so /usr/lib/libGL.so /usr/lib/libXmu.so /usr/lib/libXi.so
